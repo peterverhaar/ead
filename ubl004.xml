@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "-//UB Leiden//DTD UB Leiden EAD//EN" "http://digitool.leidenuniv.nl:8080/ead/UBA-EAD/uba-ead.dtd">
+<ead audience="external">
+    <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+        relatedencoding="dublin core" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid mainagencycode="NL-LeU" countrycode="nl" encodinganalog="identifier"
+            identifier="ubl004"
+            url="https://disc.leidenuniv.nl:443/webclient/DeliveryManager?custom_att_2=simple_viewer&amp;pid=884740"
+            > ubl004 </eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Beschrijving van de collectie Willem Matthias
+                    d'Ablaing</titleproper>
+                <author encodinganalog="creator">André Bouwman, 2005. </author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher"> Universiteitsbibliotheek Leiden </publisher>
+                <date calendar="gregorian" encodinganalog="date" era="ce" normal="2005"> 2005
+                </date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>
+                        <subject>Handschriften, archieven en brieven</subject>
+                    </p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation> Peter Verhaar, 2006. </creation>
+            <langusage> Beschrijving is in het<language encodinganalog="language" langcode="dut">
+                    Nederlands </language> . </langusage>
+        </profiledesc>
+    </eadheader>
+    <frontmatter>
+        <titlepage>
+            <titleproper encodinganalog="title"> Ablaing, Willem Matthias d' (1851-1889) </titleproper>
+            <publisher encodinganalog="publisher"> Universiteit Leiden </publisher>
+        </titlepage>
+    </frontmatter>
+    <archdesc level="fonds" relatedencoding="dublin core" type="inventory">
+        <did>
+            <origination>
+                <persname> Ablaing, Willem Matthias d' (1851-1889) </persname>
+            </origination>
+            <unittitle> Collectie Willem Matthias d'Ablaing </unittitle>
+
+            <physdesc>
+                <extent> 2,3 meter </extent>
+            </physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1175/1889" type="inclusive"> 1175-1889 </unitdate>
+            <abstract encodinganalog="description" langcode="dut"> Meest middeleeuwse juridische
+                handschriften bijeengebracht door Willem Matthias d'Ablaing (1851-1889), Leids
+                hoogleraar rechtsgeleerdheid (Romeins recht en zijn geschiedenis); tevens
+                wetenschappelijke papieren en correspondentie van d’Ablaing. </abstract>
+            <abstract encodinganalog="description" langcode="eng"> Mostly medieval legal manuscripts
+                collected by Willem Matthias d'Ablaing (1851-1889), professor of Law at Leiden
+                University (Roman Law and its history), as well as scientific papers and
+                correspondence of d'Ablaing. </abstract>
+            <physloc> Universiteitsbibliotheek, Bijzondere Collecties </physloc>
+            <repository> Universiteit Leiden </repository>
+        </did>
+        <descgrp type="context">
+            <bioghist>
+                <p> Willem Matthias d'Ablaing werd op<date calendar="gregorian" era="ce"
+                        normal="1851-08-29"> 29 augustus 1851 </date> geboren te Batavia als zoon
+                    van Vincent Matthias baron d'Ablaing van Giessenburg (1810-1885). Hij bezocht
+                    het gymnasium in Den Haag en werd in september 1869 als student rechten
+                    ingeschreven aan de Leidse Universiteit. D'Ablaing promoveerde op 29 Juni 1877
+                    op het proefschrift<title render="italic"> De zoogenoemde schuldvernieuwing door
+                        wissels </title> en werkte hierna te Leiden als lector en repetitor. Na de
+                    dood van J.E. Goudsmit werd d'Ablaing op <date calendar="gregorian" era="ce"
+                        normal="1882-04-15">15 April 1882 </date> benoemd tot hoogleraar Romeins
+                    recht. Binnen dit vakgebied specialiseerde hij zich in de
+                    historisch-filosofische richting. D'Ablaing was met name geïnteresseerd in de
+                    geschiedenis van het Romeins recht in de middeleeuwen en heeft in verband
+                    hiermee oude juridische handschriften aangeschaft. D'Ablaing overleed op <date
+                        calendar="gregorian" era="ce" normal="1889-05-28">28 mei 1889 </date>. </p>
+            </bioghist>
+            <acqinfo>
+                <p> In 1890 gaven de erven de oude handschriften in bruikleen (ABL 1-44); de
+                    papieren van d’Ablaing werden geschonken (BPL 1335). In 1907 werd het bruikleen
+                    omgezet in een schenking. Informatie over deze verwerving bevindt zich in het
+                    bibliotheekarchief (BA1, inv.nr. L 25). In 1957 schonk de Koninklijke
+                    Bibliotheek vijftig brieven ontvangen door d’Ablaing, die sindsdien onder
+                    signatuur ABL 45 in de collectie berusten. </p>
+            </acqinfo>
+            <accruals>
+                <p> Er worden geen toekomstige aanvullingen verwacht. </p>
+            </accruals>
+        </descgrp>
+        <descgrp type="content_and_structure">
+            <scopecontent>
+                <p> De collectie bevat 42 juridische handschriften uit de periode 1175-ca. 1500
+                    (waarvan 15 afkomstig uit Buxheim) en twee juridische handschriften uit het
+                    eerste kwart van de zeventiende eeuw (ABL 43-44). De wetenschappelijke papieren
+                    bestaan uit 10 delen juridische excerpten en aantekeningen (BPL 1335) en 51
+                    brieven geadresseerd aan d’Ablaing. </p>
+            </scopecontent>
+            <processinfo>
+                <p> De collectie is voor het eerst globaal beschreven door Tardif (1890). Ruim
+                    veertig jaar later is de collectie opgenomen in de Catalogus compendiarius
+                    (1932). De belangrijkste catalogus is thans Boeren (1970), waarin de twee
+                    belangrijkste Leidse collecties met middeleeuwse rechtshistorische handschriften
+                    gedetailleerd zijn beschreven. </p>
+            </processinfo>
+        </descgrp>
+        <descgrp type="access_and_use">
+            <userestrict>
+                <p> Regels die van toepassing zijn bij het raadplegen van dit materiaal zijn te
+                    vinden in de<extref> bezoekersgids </extref> van de Universiteitsbibliotheek
+                    Leiden. </p>
+            </userestrict>
+            <prefercite>
+                <p> Onderzoekers die naar deze collectie wensen te verwijzen dienen de volgende
+                    informatie te vermelden: Universiteitsbibliotheek Leiden, collectie d'Ablaing.
+                    Naar afzonderlijke stukken moet als volgt worden verwezen: Leiden, UB, ms. ABL
+                    42. – Leiden, UB, ms. BPL 1335; etc. </p>
+            </prefercite>
+            <odd type="request_instructions">
+                <p> Het materiaal in deze collectie kan worden aangevraagd via de Catalogus.</p>
+            </odd>
+            <otherfindaid>
+                <p> Voor een overzicht van itembeschrijvingen zie <extref
+                        href="https://disc.leidenuniv.nl/R/?func=search-advanced-go&amp;file_format_code=WTP&amp;language_code=WLN&amp;LOCAL_BASE=
+                        GEN01-1474&amp;find_code1=WSM&amp;request1=abl"
+                        >Bijzondere Collecties Digitaal</extref>. De brieven uit de collecties zijn
+                    toegankelijk via de Leidse<extref
+                        href="http://132.229.8.56:8981/F/?func=scan&amp;scan_code=SGN+++++++++++++++&amp;scan_start=ABL%3F&amp;x=20&amp;y=6&amp;local_base=BRIEF"
+                        > brievencatalogus</extref>.</p>
+            </otherfindaid>
+
+        </descgrp>
+        <descgrp type="allied_material">
+            <relatedmaterial>
+                <p> Op de veiling van d’Ablaings bibliotheek in april 1890 verwierf prof. H.L.
+                    Drucker 55 oude drukken op het gebied van Romeins recht en kerkelijk recht
+                    (waaronder dertien incunabelen), die hij vervolgens schonk aan de
+                    Universiteitsbibliotheek Leiden. De bibliotheek verwierf zelf op de veiling een
+                    middeleeuws handschrift uit het bezit van d’Ablaing (BPL 1326); in juni 1896
+                    verwierf ze op de veiling van Burgersdijk en Niermans enkele collegedictaten van
+                    onbekende hand (BPL 1530-1534). </p>
+            </relatedmaterial>
+        </descgrp>
+        <descgrp type="appendices">
+            <bibliography>
+                <bibref>
+                    <title render="italic"> Album Scholasticum Academiae Lugduno-Batavae
+                        MDLXXV-MCMXL </title>. Leiden 1941, p. 1. </bibref>
+                <bibref>
+                    <persname> Bemmelen, J.M. van</persname>, in:<title render="italic"> Jaarboek
+                        der Rijksuniversiteit te Leiden, 1888-1889 </title>, pp. 7-8 </bibref>
+                <bibref>
+                    <persname> Bijdendijk, J.H.</persname>, in:<title render="italic"> Almanak van
+                        het Leids Studentencorps voor het jaar 1890 </title>, pp. 431-436. </bibref>
+                <bibref>
+                    <persname> Boeren, P.C. </persname> ,<title render="italic"> Catalogue des
+                        manuscrits des collections d'Ablaing et Meijers </title> . Leiden 1970.
+                    (Codices Manuscripti, 12). </bibref>
+                <bibref>
+                    <title render="italic">Catalogus compendiarius continens codices omnes
+                        manuscriptos qui in Bibliotheca Academiae Lugduno-Batavae
+                        asservantur</title>, pars 1 (Leiden 1932), XX. </bibref>
+                <bibref>
+                    <title render="italic"> Catalogus eener belangrijke verzameling boeken,
+                        uitmakende de bibliotheken nagelaten door de heeren mr. W.M. d'Ablaing,
+                        hoogleeraar te Leiden, mr. A. Wm Jacobson, advocaat en procureur te
+                        's-Gravenhage, J. Baart de La Faille, gepens. ass.-resident in N.-I., te
+                        's-Gravenhage, e.a., waarvan de verkooping zal plaats hebben op zaterdag 19
+                        april 1890, en volgende dagen, [...] door en ten huize van Martinus Nijhoff
+                        [...] </title> . 's-Gravenhage 1890. </bibref>
+                <bibref>
+                    <persname role="author"> Feenstra, R.</persname>, In:<title render="italic">
+                        Grote Winkler Prins encyclopedie </title> , dl. 1 (Amsterdam 1966), p.
+                    144-145. </bibref>
+                <bibref>
+                    <persname role="author"> Hoogeveen, F.J.</persname>, In:<title render="italic">
+                        Nieuw Nederlandsch biographisch woordenboek </title> , dl. 10 (Leiden 1937),
+                    k. 5-6. </bibref>
+                <bibref>
+                    <persname>Limburg, J.</persname>, <title render="singlequote">Mr. d'Ablaing als
+                        rechtsleraar</title>, in:<title render="italic"> Weekblad van het recht
+                    </title> 5718 (14 juni 1889) </bibref>
+                <bibref>
+                    <persname> Rieu, W.N. du</persname>, <title render="singlequote">De bibliotheek
+                        van prof. W.M. d'Ablaing</title>, in:<title render="italic"> De
+                        Nederlandsche spectator </title>. Arnhem 1890, p. 218-220. </bibref>
+                <bibref>
+                    <persname role="author"> Tardif, J.</persname>, <title render="singlequote">La
+                        collection des manuscrits de M. d'Ablaing</title>, in: <title
+                        render="italic">Nouvelle revue historique de droit français et étranger
+                    </title> 16 (1892), p. 357-364. </bibref>
+                <bibref>
+                    <persname role="author"> Tardif, J.</persname>, <title render="italic">Lĳst der
+                        handschriften van wĳlen prof. mr. W.M. d’Ablaing in bruikleen afgestaan aan
+                        de bibliotheek der Rĳksuniversiteit te Leiden </title> . [S.l. 1890] </bibref>
+                <bibref>
+                    <persname> Vlugt, W. van der</persname>, in:<title render="italic">Weekblad van
+                        het recht </title> , nr. 5714 (5 juni 1889) </bibref>
+            </bibliography>
+        </descgrp>
+        <controlaccess langcode="dut">
+            <head> Basisclassificatie </head>
+            <subject authfilenumber="PPN 077607848" source="NBC">86.12 = Romeins recht </subject>
+            <subject authfilenumber="PPN 077594460" source="NBC">11.73 = kerkorganisatie, kerkrecht
+            </subject>
+        </controlaccess>
+        <controlaccess langcode="eng">
+            <head> Dutch Basic Classification </head>
+            <subject authfilenumber="PPN 077607848" source="NBC">86.12 = Roman law </subject>
+            <subject authfilenumber="PPN 077594460" source="NBC">11.73 = church organization, canon
+                law </subject>
+        </controlaccess>
+        <controlaccess langcode="dut">
+            <head> Trefwoorden </head>
+            <subject authfilenumber="PPN 07865288X" source="GTT">Romeins recht </subject>
+            <subject authfilenumber="PPN 078557984" source="GTT">Kerkrecht </subject>
+        </controlaccess>
+        <controlaccess langcode="eng">
+            <head> Topical heading </head>
+            <subject authfilenumber="PPN 07865288X" source="GTT">Roman law </subject>
+            <subject authfilenumber="PPN 078557984" source="GTT">Canon law </subject>
+        </controlaccess>
+        <controlaccess langcode="dut">
+            <head> Personen </head>
+            <persname authfilenumber="070311625" source="GTT">Ablaing, Willem Matthias d’ 1851-1889
+            </persname>
+        </controlaccess>
+        <controlaccess langcode="eng">
+            <head> Persons </head>
+            <persname authfilenumber="070311625" source="GTT">Ablaing, Willem Matthias d’ 1851-1889
+            </persname>
+        </controlaccess>
+
+    </archdesc>
+</ead>
