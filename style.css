@@ -1,0 +1,171 @@
+ 
+                    
+					a:link.nav,a:visited.nav { color: #4a7184; FONT-WEIGHT: BOLD; TEXT-DECORATION: none; }
+					a:hover.nav { color: #4a7184; FONT-WEIGHT: BOLD; TEXT-DECORATION: UNDERLINE; } 
+					h3 { margin: 0 ; }
+					div.body { FONT-FAMILY: Arial Unicode MS, Arial, Verdana, sans-serif; margin-left: 15px;  } 
+					div.nav { BACKGROUND: #F7F7ED } 
+					div.level2 { FONT-SIZE: 11.5px ;  } 
+					
+					div.level3 { FONT-SIZE: 11px ;  } 
+				           table { FONT-SIZE: 12.5px ; }
+					hr { color: #C0C0C0 ; border-style: dotted ; } 
+					input { FONT-SIZE: 90%; color: #808080; }
+					
+					div.buttonInput {background-color: white; COLOR: black; }
+					div.searchBox { color: #4a7184; padding-left:15px; padding-bottom:3px; padding-top:3px;  }
+					div.top { COLOR: #1678A7; padding-bottom:3px; padding-top:3px; border-bottom: solid 1px #0C2577; height: 45px; }
+					
+					
+
+body {
+  margin:0;
+  padding:0;
+  background: #f9f9f9;
+  font-family: Arial Unicode MS, Arial, Verdana, sans-serif;
+  font-size: 15px;
+  
+  MARGIN-TOP: 0PX; 
+    MARGIN-bottom: 0PX; 
+    MARGIN-left: 0PX; 
+    MARGIN-right: 0PX; 
+  
+}
+
+.wrapper {
+    display: table-row ;
+    margin: 0;
+  }
+
+.sidebar {
+    width: 225px;
+    display: table-cell;
+    background: #F7F7ED ;
+    padding-top: 30px; 
+    padding-left: 5px;
+}
+
+
+.sidebar h3  {
+  color: #FFFFFF ;
+  padding-left: 15px;
+}
+
+.main h1, h2 , h3 {
+  color: #000000 ;
+  padding-left: 0px;
+}
+
+.sidebar ul {
+    list-style-type:none;
+    margin-left: 0;
+    padding: 0;
+}
+
+.sidebar a.nav {
+    display: block;
+    padding: 2px;
+    position: relative;
+    text-decoration: none;
+    font-size: 12.5px;
+}
+
+
+
+
+
+.sidebar ul li a:hover:before,
+.sidebar ul li a.active:before{
+    display: block;
+}
+
+
+.did-label {
+    width: 20%;     
+}
+
+.did-text {
+    width: 80%;     
+}
+
+.main {
+  display: table-cell;
+  background: #FFFFFF ;
+  padding-top: 20px;
+padding-left: 55px ;
+padding-right: 55px ;
+padding-bottom: 500px; 
+
+}
+
+
+.main a {
+  color: #B07F2B ;
+  text-decoration: none ;
+}
+
+.main a:hover {
+  color: #B07F2B ;
+  text-decoration: underline ;
+}
+
+.main .nav {
+  text-align: right;
+}
+
+.main .nav a {
+  color: #011059;
+  text-decoration: none ;
+}
+
+.main .nav a:hover {
+  text-decoration: underline ;
+}
+
+.main table {
+    font-size: 15px;
+}
+
+.box , pre {
+FONT-FAMILY: Courier New;
+BORDER-RIGHT: thin dashed;
+PADDING-RIGHT: 20px;
+BORDER-TOP: thin dashed;
+PADDING-LEFT: 20px;
+FONT-WEIGHT: bold;
+PADDING-BOTTOM: 10px;
+BORDER-LEFT: thin dashed;
+
+COLOR: #000066;
+PADDING-TOP: 10px;
+BORDER-BOTTOM: thin dashed;
+background: #f9f9f9 ;
+margin-top: 40px ;
+margin-left: 30px ;
+margin-right: 30px ;
+margin-bottom: 40px ;
+}
+
+.margin-sidebar {
+    width: 5px; 
+}
+
+.margin-dsc {
+    width: 2%; 
+}
+
+.dsc-item {
+    margin-top: 35px; 
+}
+
+.dsc-item p , .dsc-item ul {
+    margin: 0px; 
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+			 
